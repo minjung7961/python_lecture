@@ -1,0 +1,6 @@
+print('1일 전')
+print('2일 전')
+print('3일 전')
+print('7일 전')
+print('15일 전')
+print('30일 전')
